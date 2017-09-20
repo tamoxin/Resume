@@ -1,2 +1,2 @@
 
-Copyright (C) 2017 
+Copyright Marco Carrizales 2017 
